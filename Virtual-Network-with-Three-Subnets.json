@@ -4,7 +4,7 @@
   "parameters": {
     "vnetName": {
       "type": "string",
-      "defaultValue": "Training Virtual Network",
+      "defaultValue": "rg9787",
       "metadata": {
         "description": "Training Virtual Network"
       }
