@@ -39,7 +39,7 @@
     },
     "subnet2Name": {
       "type": "string",
-      "defaultValue": "Virtual Machine",
+      "defaultValue": "VM",
       "metadata": {
         "description": "Virtual Machine Subnet"
       }
